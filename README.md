@@ -21,4 +21,4 @@ We're proud to have been able to design the glasses to be as sleek as it is, and
 ## What We Learned
 As a project that sits on the edge between hardware and software, it was a great learning experience from all sides of the field.  
 ## What's Next for Vidi
-Vidi is still in its infancy. Iterative improvements in the mechanical and hardware design will allow it to be more compact, while multiple more software features are planned for implementation, allowing individuals with visual impairment to activate even more routines and ease their daily lives.
+Vidi is still in its infancy. Iterative improvements in the mechanical and hardware design will allow it to be more compact, while multiple more software features are planned for implementation. This includes a pathfinding algorithm, included in the github repo, that we've developed and will optimize and implement in the future.
